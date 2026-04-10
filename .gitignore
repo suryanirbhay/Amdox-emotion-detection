@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit and local config
+.streamlit/
+
+# VS Code files
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
